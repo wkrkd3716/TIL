@@ -15,7 +15,7 @@
 - 파이썬에서는 `True, False` 으로 값을 저장할 수 있다
 - 주의! 각각은 대문자로 시작한다.
 
-
+!!!
 
 ## github 자료 업로드 하기 !
 
@@ -38,3 +38,9 @@ git log => commit의 기록을 보여줌
 git remote add origin https://github.com/wkrkd3716/TIL.git => 깃아 원격저장소 쓸건데 추가해줘 그이름은 `오리진` , 레포짓 주소
 
 git push origin master  => 올려줘!
+
+cd .. 뒤로가기
+
+cd TIL 들어가기
+
+git diff  => 깃이 트레킹하고 있는 파일 찾고 최근에 저장된 항목을 보여줌
